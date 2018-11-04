@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="player">Player</string>
+    <string name="playlists">Playlists</string>
+    <string name="albums">Albums</string>
+    <string name="settings">Settings</string>
+    <string name="showSongLyrics">Show song lyrics</string>
+    <string name="continueFromLastSong">Play from last song</string>
+    <string name="anonymousData">Send anonymous usage data</string>
+    <string name="menuDescription">Menu.</string>
+    <string name="playerAlbumSample">Album of the year.</string>
+    <string name="playerDescription">Music player.</string>
+    <string name="albumsDescription">Albums list..</string>
+    <string name="playlistsDescription">Playlists. </string>
+    <string name="settingsDescription">Settings screen.</string>
+</resources>
